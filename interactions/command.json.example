@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "",             // Automatically filled by the system when the command is created.
+    "application_id": "", // Automatically filled by the system when the command is created.
+    "version": ""         // Automatically filled by the system when the command is created or updated.
+  },
+  "interaction": {
+    "name": "test",
+    "type": 1,
+    "description": "Test the interactions.",
+    "options": [
+      {
+        "name": "word",
+        "description": "Literally any word. From any language.",
+        "type": 3,
+        "required": true
+      }
+    ]
+  }
+}

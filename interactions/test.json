@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "896958520929452142",
+    "application_id": "896484114159513640",
+    "version": "896958520929452143"
+  },
+  "interaction": {
+    "name": "test",
+    "type": 1,
+    "description": "Test the interactions.",
+    "options": [
+      {
+        "name": "word",
+        "description": "Literally any word. From any language.",
+        "type": 3,
+        "required": true
+      }
+    ]
+  }
+}

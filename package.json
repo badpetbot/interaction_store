@@ -1,0 +1,16 @@
+{
+  "name": "interaction_store",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Maintains data and functionality for publishing and updating Discord interactions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ely Chan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "dotenv": "^10.0.0"
+  }
+}
